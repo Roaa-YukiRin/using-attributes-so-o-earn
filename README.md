@@ -12,4 +12,5 @@ sololearn-landing page project 2 -using attributes
 ### 2- add a well structured "form" element wuth buth text and emaol input type
 ### 3- add a "submit buton to the form
 
-## note:- make sure to add line brakes"br" to keep the page organized and easy to read
+## note:- 
+### make sure to add line brakes"br" to keep the page organized and easy to read
