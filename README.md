@@ -16,3 +16,5 @@ sololearn-landing page project 2 -using attributes
 ### make sure to add line brakes"br" to keep the page organized and easy to read
 ![image](https://github.com/user-attachments/assets/c96017b4-611d-42c8-a3b7-be465e0a4cd5)
 ![image](https://github.com/user-attachments/assets/0c60f93c-4c01-4238-a934-6168dfdb6c3c)
+# solotion :- https://youtu.be/yGkypcaW3o0
+====================================
