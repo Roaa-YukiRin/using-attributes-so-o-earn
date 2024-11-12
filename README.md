@@ -14,3 +14,4 @@ sololearn-landing page project 2 -using attributes
 
 ## note:- 
 ### make sure to add line brakes"br" to keep the page organized and easy to read
+![image](https://github.com/user-attachments/assets/c96017b4-611d-42c8-a3b7-be465e0a4cd5)
