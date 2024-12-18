@@ -18,3 +18,8 @@ sololearn-landing page project 2 -using attributes
 ![image](https://github.com/user-attachments/assets/0c60f93c-4c01-4238-a934-6168dfdb6c3c)
 # solotion :- https://youtu.be/yGkypcaW3o0
 ====================================
+![task 6](https://github.com/user-attachments/assets/4409ed53-85a9-47b5-b29a-cfe195efaf55)
+# task 6
+## add adropo down menu using the "select" tag to noffer your customers mor then on "option" >
+## insert the drop down menu inside the "form" container tag, right blow the "h2" heading
+![2024-12-18 (2)](https://github.com/user-attachments/assets/e4cc6c91-c3c5-435d-aea3-957a969cff0c)
